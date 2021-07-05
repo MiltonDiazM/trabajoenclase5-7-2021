@@ -1,0 +1,3 @@
+"C:\Program Files\JetBrains\CLion 2021.1.2\bin\cmake\win\bin\cmake.exe" -E rm -f CMakeFiles\correcciondeltrabajo.dir/objects.a
+C:\mingw-w64\mingw64\bin\ar.exe cr CMakeFiles\correcciondeltrabajo.dir/objects.a @CMakeFiles\correcciondeltrabajo.dir\objects1.rsp
+C:\mingw-w64\mingw64\bin\g++.exe -g -Wl,--whole-archive CMakeFiles\correcciondeltrabajo.dir/objects.a -Wl,--no-whole-archive -o correcciondeltrabajo.exe -Wl,--out-implib,libcorrecciondeltrabajo.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\correcciondeltrabajo.dir\linklibs.rsp

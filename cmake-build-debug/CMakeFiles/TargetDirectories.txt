@@ -1,0 +1,3 @@
+C:/Users/diazm/CLionProjects/correcciondeltrabajo/cmake-build-debug/CMakeFiles/correcciondeltrabajo.dir
+C:/Users/diazm/CLionProjects/correcciondeltrabajo/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/diazm/CLionProjects/correcciondeltrabajo/cmake-build-debug/CMakeFiles/rebuild_cache.dir
